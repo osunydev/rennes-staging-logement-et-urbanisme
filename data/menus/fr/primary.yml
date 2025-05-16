@@ -517,13 +517,6 @@ items:
     children: []
     path: "/pages/tous-les-programmes-immobiliers-neufs/l-ile-o-bois-koad"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/l-ile-o-bois-koad/_index.html
-  - title: L'Impérial
-    target: "/tous-les-programmes-immobiliers-neufs/l-imperial/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/l-imperial"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/l-imperial/_index.html
   - title: L'Oasis
     target: "/tous-les-programmes-immobiliers-neufs/l-oasis/"
     kind: page
