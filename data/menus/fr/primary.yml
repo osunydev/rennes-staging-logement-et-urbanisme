@@ -994,82 +994,82 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/1311-sccv-flo-5"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1311-sccv-flo-5/_index.html
   - title: Secteur Confluences (Tranche sud-ouest)
-    target: "/tous-les-programmes-immobiliers-neufs/secteur-confluences-tranche-sud-ouest/"
+    target: "/tous-les-programmes-immobiliers-neufs/1673-secteur-confluences-tranche-sud-ouest/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/secteur-confluences-tranche-sud-ouest"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/secteur-confluences-tranche-sud-ouest/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1673-secteur-confluences-tranche-sud-ouest"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1673-secteur-confluences-tranche-sud-ouest/_index.html
   - title: Sensity
-    target: "/tous-les-programmes-immobiliers-neufs/sensity/"
+    target: "/tous-les-programmes-immobiliers-neufs/1805-sensity/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/sensity"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/sensity/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1805-sensity"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1805-sensity/_index.html
   - title: Shîzen
-    target: "/tous-les-programmes-immobiliers-neufs/shizen/"
+    target: "/tous-les-programmes-immobiliers-neufs/1792-shizen/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/shizen"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/shizen/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1792-shizen"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1792-shizen/_index.html
   - title: SNC Atelier de Jeanne
-    target: "/tous-les-programmes-immobiliers-neufs/snc-atelier-de-jeanne/"
+    target: "/tous-les-programmes-immobiliers-neufs/1738-snc-atelier-de-jeanne/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/snc-atelier-de-jeanne"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/snc-atelier-de-jeanne/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1738-snc-atelier-de-jeanne"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1738-snc-atelier-de-jeanne/_index.html
   - title: So Gree
-    target: "/tous-les-programmes-immobiliers-neufs/so-gree/"
+    target: "/tous-les-programmes-immobiliers-neufs/1570-so-gree/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/so-gree"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/so-gree/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1570-so-gree"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1570-so-gree/_index.html
   - title: Spiky
-    target: "/tous-les-programmes-immobiliers-neufs/spiky/"
+    target: "/tous-les-programmes-immobiliers-neufs/1677-spiky/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/spiky"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/spiky/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1677-spiky"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1677-spiky/_index.html
   - title: Storm
-    target: "/tous-les-programmes-immobiliers-neufs/storm/"
+    target: "/tous-les-programmes-immobiliers-neufs/992-storm/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/storm"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/storm/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/992-storm"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/992-storm/_index.html
   - title: Summerfield
-    target: "/tous-les-programmes-immobiliers-neufs/summerfield/"
+    target: "/tous-les-programmes-immobiliers-neufs/1205-summerfield/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/summerfield"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/summerfield/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1205-summerfield"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1205-summerfield/_index.html
   - title: Terra bella
-    target: "/tous-les-programmes-immobiliers-neufs/terra-bella/"
+    target: "/tous-les-programmes-immobiliers-neufs/1760-terra-bella/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/terra-bella"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/terra-bella/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1760-terra-bella"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1760-terra-bella/_index.html
   - title: Terra Serena
-    target: "/tous-les-programmes-immobiliers-neufs/terra-serena/"
+    target: "/tous-les-programmes-immobiliers-neufs/1485-terra-serena/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/terra-serena"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/terra-serena/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1485-terra-serena"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1485-terra-serena/_index.html
   - title: Terranova
-    target: "/tous-les-programmes-immobiliers-neufs/terranova/"
+    target: "/tous-les-programmes-immobiliers-neufs/1417-terranova/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/terranova"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/terranova/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1417-terranova"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1417-terranova/_index.html
   - title: Terrasilva
     target: "/tous-les-programmes-immobiliers-neufs/terrasilva/"
     kind: page
@@ -1323,12 +1323,12 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/1812-les-partitions-habitat-concertatif"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1812-les-partitions-habitat-concertatif/_index.html
   - title: SYMBIOZ
-    target: "/tous-les-programmes-immobiliers-neufs/symbioz/"
+    target: "/tous-les-programmes-immobiliers-neufs/1814-symbioz/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/symbioz"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/symbioz/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1814-symbioz"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1814-symbioz/_index.html
   - title: L'Impérial
     target: "/tous-les-programmes-immobiliers-neufs/1822-l-imperial/"
     kind: page
@@ -1434,6 +1434,13 @@ items:
     children: []
     path: "/pages/tous-les-programmes-immobiliers-neufs/1477-parenthese"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1477-parenthese/_index.html
+  - title: Spiky
+    target: "/tous-les-programmes-immobiliers-neufs/1678-spiky/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1678-spiky"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1678-spiky/_index.html
   path: "/pages/tous-les-programmes-immobiliers-neufs"
   file: content/fr/pages/tous-les-programmes-immobiliers-neufs/_index.html
 
