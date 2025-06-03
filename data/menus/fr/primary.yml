@@ -196,299 +196,299 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/1756-centre-bourg-et-zac-loirie-tranche-2c"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1756-centre-bourg-et-zac-loirie-tranche-2c/_index.html
   - title: Cézembre
-    target: "/tous-les-programmes-immobiliers-neufs/cezembre/"
+    target: "/tous-les-programmes-immobiliers-neufs/1621-cezembre/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/cezembre"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/cezembre/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1621-cezembre"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1621-cezembre/_index.html
   - title: City Zen
-    target: "/tous-les-programmes-immobiliers-neufs/city-zen/"
+    target: "/tous-les-programmes-immobiliers-neufs/1568-city-zen/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/city-zen"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/city-zen/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1568-city-zen"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1568-city-zen/_index.html
   - title: Cléa (collectif)
-    target: "/tous-les-programmes-immobiliers-neufs/clea-collectif/"
+    target: "/tous-les-programmes-immobiliers-neufs/1801-clea-collectif/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/clea-collectif"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/clea-collectif/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1801-clea-collectif"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1801-clea-collectif/_index.html
   - title: Cléa (indiv groupé)
-    target: "/tous-les-programmes-immobiliers-neufs/clea-indiv-groupe/"
+    target: "/tous-les-programmes-immobiliers-neufs/1802-clea-indiv-groupe/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/clea-indiv-groupe"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/clea-indiv-groupe/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1802-clea-indiv-groupe"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1802-clea-indiv-groupe/_index.html
   - title: Clos du Bourg
-    target: "/tous-les-programmes-immobiliers-neufs/clos-du-bourg/"
+    target: "/tous-les-programmes-immobiliers-neufs/1612-clos-du-bourg/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/clos-du-bourg"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/clos-du-bourg/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1612-clos-du-bourg"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1612-clos-du-bourg/_index.html
   - title: Clos Milin
-    target: "/tous-les-programmes-immobiliers-neufs/clos-milin/"
+    target: "/tous-les-programmes-immobiliers-neufs/1656-clos-milin/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/clos-milin"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/clos-milin/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1656-clos-milin"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1656-clos-milin/_index.html
   - title: Coeur Ambrée
-    target: "/tous-les-programmes-immobiliers-neufs/coeur-ambree/"
+    target: "/tous-les-programmes-immobiliers-neufs/1736-coeur-ambree/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/coeur-ambree"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/coeur-ambree/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1736-coeur-ambree"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1736-coeur-ambree/_index.html
   - title: Coeur Vezin
-    target: "/tous-les-programmes-immobiliers-neufs/coeur-vezin/"
+    target: "/tous-les-programmes-immobiliers-neufs/1654-coeur-vezin/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/coeur-vezin"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/coeur-vezin/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1654-coeur-vezin"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1654-coeur-vezin/_index.html
   - title: Constellation
-    target: "/tous-les-programmes-immobiliers-neufs/constellation/"
+    target: "/tous-les-programmes-immobiliers-neufs/1252-constellation/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/constellation"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/constellation/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1252-constellation"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1252-constellation/_index.html
   - title: Diva
-    target: "/tous-les-programmes-immobiliers-neufs/diva/"
+    target: "/tous-les-programmes-immobiliers-neufs/1749-diva/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/diva"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/diva/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1749-diva"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1749-diva/_index.html
   - title: Domaine du Verger
-    target: "/tous-les-programmes-immobiliers-neufs/domaine-du-verger/"
+    target: "/tous-les-programmes-immobiliers-neufs/1769-domaine-du-verger/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/domaine-du-verger"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/domaine-du-verger/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1769-domaine-du-verger"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1769-domaine-du-verger/_index.html
   - title: DUO
-    target: "/tous-les-programmes-immobiliers-neufs/duo/"
+    target: "/tous-les-programmes-immobiliers-neufs/1639-duo/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/duo"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/duo/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1639-duo"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1639-duo/_index.html
   - title: ECHO'LOTI
-    target: "/tous-les-programmes-immobiliers-neufs/echo-loti/"
+    target: "/tous-les-programmes-immobiliers-neufs/1619-echo-loti/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/echo-loti"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/echo-loti/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1619-echo-loti"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1619-echo-loti/_index.html
   - title: Eclanova
-    target: "/tous-les-programmes-immobiliers-neufs/eclanova/"
+    target: "/tous-les-programmes-immobiliers-neufs/1131-eclanova/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/eclanova"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/eclanova/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1131-eclanova"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1131-eclanova/_index.html
   - title: Eclat
-    target: "/tous-les-programmes-immobiliers-neufs/eclat/"
+    target: "/tous-les-programmes-immobiliers-neufs/1309-eclat/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/eclat"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/eclat/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1309-eclat"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1309-eclat/_index.html
   - title: Eclisse
-    target: "/tous-les-programmes-immobiliers-neufs/eclisse/"
+    target: "/tous-les-programmes-immobiliers-neufs/1567-eclisse/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/eclisse"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/eclisse/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1567-eclisse"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1567-eclisse/_index.html
   - title: Ecoquartier Les Champs Bleus
-    target: "/tous-les-programmes-immobiliers-neufs/ecoquartier-les-champs-bleus/"
+    target: "/tous-les-programmes-immobiliers-neufs/1695-ecoquartier-les-champs-bleus/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/ecoquartier-les-champs-bleus"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/ecoquartier-les-champs-bleus/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1695-ecoquartier-les-champs-bleus"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1695-ecoquartier-les-champs-bleus/_index.html
   - title: EKLA
-    target: "/tous-les-programmes-immobiliers-neufs/ekla/"
+    target: "/tous-les-programmes-immobiliers-neufs/1394-ekla/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/ekla"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/ekla/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1394-ekla"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1394-ekla/_index.html
   - title: Eklo
-    target: "/tous-les-programmes-immobiliers-neufs/eklo/"
+    target: "/tous-les-programmes-immobiliers-neufs/1308-eklo/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/eklo"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/eklo/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1308-eklo"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1308-eklo/_index.html
   - title: Eklor
-    target: "/tous-les-programmes-immobiliers-neufs/eklor/"
+    target: "/tous-les-programmes-immobiliers-neufs/1753-eklor/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/eklor"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/eklor/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1753-eklor"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1753-eklor/_index.html
   - title: Eloge
-    target: "/tous-les-programmes-immobiliers-neufs/eloge/"
+    target: "/tous-les-programmes-immobiliers-neufs/1242-eloge/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/eloge"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/eloge/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1242-eloge"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1242-eloge/_index.html
   - title: Eor
-    target: "/tous-les-programmes-immobiliers-neufs/eor/"
+    target: "/tous-les-programmes-immobiliers-neufs/1189-eor/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/eor"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/eor/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1189-eor"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1189-eor/_index.html
   - title: EPICURE
-    target: "/tous-les-programmes-immobiliers-neufs/epicure/"
+    target: "/tous-les-programmes-immobiliers-neufs/1620-epicure/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/epicure"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/epicure/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1620-epicure"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1620-epicure/_index.html
   - title: Epure
-    target: "/tous-les-programmes-immobiliers-neufs/epure/"
+    target: "/tous-les-programmes-immobiliers-neufs/1655-epure/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/epure"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/epure/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1655-epure"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1655-epure/_index.html
   - title: Excelsior
-    target: "/tous-les-programmes-immobiliers-neufs/excelsior/"
+    target: "/tous-les-programmes-immobiliers-neufs/1566-excelsior/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/excelsior"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/excelsior/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1566-excelsior"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1566-excelsior/_index.html
   - title: Excelsior nue propriété
-    target: "/tous-les-programmes-immobiliers-neufs/excelsior-nue-propriete/"
+    target: "/tous-les-programmes-immobiliers-neufs/1679-excelsior-nue-propriete/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/excelsior-nue-propriete"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/excelsior-nue-propriete/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1679-excelsior-nue-propriete"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1679-excelsior-nue-propriete/_index.html
   - title: Faubourg
-    target: "/tous-les-programmes-immobiliers-neufs/faubourg/"
+    target: "/tous-les-programmes-immobiliers-neufs/1740-faubourg/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/faubourg"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/faubourg/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1740-faubourg"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1740-faubourg/_index.html
   - title: Greenvil
-    target: "/tous-les-programmes-immobiliers-neufs/greenvil/"
+    target: "/tous-les-programmes-immobiliers-neufs/1200-greenvil/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/greenvil"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/greenvil/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1200-greenvil"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1200-greenvil/_index.html
   - title: Happy
-    target: "/tous-les-programmes-immobiliers-neufs/happy/"
+    target: "/tous-les-programmes-immobiliers-neufs/1270-happy/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/happy"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/happy/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1270-happy"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1270-happy/_index.html
   - title: Hermeland
-    target: "/tous-les-programmes-immobiliers-neufs/hermeland/"
+    target: "/tous-les-programmes-immobiliers-neufs/1751-hermeland/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/hermeland"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/hermeland/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1751-hermeland"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1751-hermeland/_index.html
   - title: Hiatus
-    target: "/tous-les-programmes-immobiliers-neufs/hiatus/"
+    target: "/tous-les-programmes-immobiliers-neufs/1434-hiatus/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/hiatus"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/hiatus/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1434-hiatus"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1434-hiatus/_index.html
   - title: Home ilot 5
-    target: "/tous-les-programmes-immobiliers-neufs/home-ilot-5/"
+    target: "/tous-les-programmes-immobiliers-neufs/1667-home-ilot-5/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/home-ilot-5"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/home-ilot-5/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1667-home-ilot-5"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1667-home-ilot-5/_index.html
   - title: Home ilot 7
-    target: "/tous-les-programmes-immobiliers-neufs/home-ilot-7/"
+    target: "/tous-les-programmes-immobiliers-neufs/1631-home-ilot-7/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/home-ilot-7"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/home-ilot-7/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1631-home-ilot-7"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1631-home-ilot-7/_index.html
   - title: Honoré
-    target: "/tous-les-programmes-immobiliers-neufs/honore/"
+    target: "/tous-les-programmes-immobiliers-neufs/1549-honore/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/honore"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/honore/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1549-honore"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1549-honore/_index.html
   - title: Honoré (Maison)
-    target: "/tous-les-programmes-immobiliers-neufs/honore-maison/"
+    target: "/tous-les-programmes-immobiliers-neufs/1644-honore-maison/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/honore-maison"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/honore-maison/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1644-honore-maison"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1644-honore-maison/_index.html
   - title: Iléo
-    target: "/tous-les-programmes-immobiliers-neufs/ileo/"
+    target: "/tous-les-programmes-immobiliers-neufs/1202-ileo/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/ileo"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/ileo/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1202-ileo"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1202-ileo/_index.html
   - title: Ilô
-    target: "/tous-les-programmes-immobiliers-neufs/ilo/"
+    target: "/tous-les-programmes-immobiliers-neufs/1005-ilo/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/ilo"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/ilo/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1005-ilo"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1005-ilo/_index.html
   - title: Ilot du Tronchay
-    target: "/tous-les-programmes-immobiliers-neufs/ilot-du-tronchay/"
+    target: "/tous-les-programmes-immobiliers-neufs/1694-ilot-du-tronchay/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/ilot-du-tronchay"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/ilot-du-tronchay/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1694-ilot-du-tronchay"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1694-ilot-du-tronchay/_index.html
   - title: Kalia
-    target: "/tous-les-programmes-immobiliers-neufs/kalia/"
+    target: "/tous-les-programmes-immobiliers-neufs/1314-kalia/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/kalia"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/kalia/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1314-kalia"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1314-kalia/_index.html
   - title: Kanopy
-    target: "/tous-les-programmes-immobiliers-neufs/kanopy/"
+    target: "/tous-les-programmes-immobiliers-neufs/1306-kanopy/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/kanopy"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/kanopy/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1306-kanopy"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1306-kanopy/_index.html
   - title: Ker Célu (Habitat participatif)
-    target: "/tous-les-programmes-immobiliers-neufs/ker-celu-habitat-participatif/"
+    target: "/tous-les-programmes-immobiliers-neufs/1798-ker-celu-habitat-participatif/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/ker-celu-habitat-participatif"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/ker-celu-habitat-participatif/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1798-ker-celu-habitat-participatif"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1798-ker-celu-habitat-participatif/_index.html
   - title: Kottage
-    target: "/tous-les-programmes-immobiliers-neufs/kottage/"
+    target: "/tous-les-programmes-immobiliers-neufs/1635-kottage/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/kottage"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/kottage/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1635-kottage"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1635-kottage/_index.html
   - title: Krei'zen
     target: "/tous-les-programmes-immobiliers-neufs/krei-zen/"
     kind: page
@@ -497,12 +497,12 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/krei-zen"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/krei-zen/_index.html
   - title: L'atelier d'Elise
-    target: "/tous-les-programmes-immobiliers-neufs/l-atelier-d-elise/"
+    target: "/tous-les-programmes-immobiliers-neufs/1502-l-atelier-d-elise/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/l-atelier-d-elise"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/l-atelier-d-elise/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1502-l-atelier-d-elise"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1502-l-atelier-d-elise/_index.html
   - title: L'Esplanade
     target: "/tous-les-programmes-immobiliers-neufs/l-esplanade/"
     kind: page
@@ -511,89 +511,89 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/l-esplanade"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/l-esplanade/_index.html
   - title: L'Ile O Bois - Koad
-    target: "/tous-les-programmes-immobiliers-neufs/l-ile-o-bois-koad/"
+    target: "/tous-les-programmes-immobiliers-neufs/1184-l-ile-o-bois-koad/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/l-ile-o-bois-koad"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/l-ile-o-bois-koad/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1184-l-ile-o-bois-koad"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1184-l-ile-o-bois-koad/_index.html
   - title: L'Oasis
-    target: "/tous-les-programmes-immobiliers-neufs/l-oasis/"
+    target: "/tous-les-programmes-immobiliers-neufs/1342-l-oasis/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/l-oasis"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/l-oasis/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1342-l-oasis"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1342-l-oasis/_index.html
   - title: L'Oasis Maisons
-    target: "/tous-les-programmes-immobiliers-neufs/l-oasis-maisons/"
+    target: "/tous-les-programmes-immobiliers-neufs/1344-l-oasis-maisons/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/l-oasis-maisons"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/l-oasis-maisons/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1344-l-oasis-maisons"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1344-l-oasis-maisons/_index.html
   - title: La Belle Metairie
-    target: "/tous-les-programmes-immobiliers-neufs/la-belle-metairie/"
+    target: "/tous-les-programmes-immobiliers-neufs/1487-la-belle-metairie/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/la-belle-metairie"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/la-belle-metairie/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1487-la-belle-metairie"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1487-la-belle-metairie/_index.html
   - title: La Lisière d'Apigné
-    target: "/tous-les-programmes-immobiliers-neufs/la-lisiere-d-apigne/"
+    target: "/tous-les-programmes-immobiliers-neufs/1214-la-lisiere-d-apigne/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/la-lisiere-d-apigne"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/la-lisiere-d-apigne/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1214-la-lisiere-d-apigne"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1214-la-lisiere-d-apigne/_index.html
   - title: La Niche aux oiseaux
-    target: "/tous-les-programmes-immobiliers-neufs/la-niche-aux-oiseaux/"
+    target: "/tous-les-programmes-immobiliers-neufs/1272-la-niche-aux-oiseaux/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/la-niche-aux-oiseaux"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/la-niche-aux-oiseaux/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1272-la-niche-aux-oiseaux"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1272-la-niche-aux-oiseaux/_index.html
   - title: La Touraudière (T1)
-    target: "/tous-les-programmes-immobiliers-neufs/la-touraudiere-t1/"
+    target: "/tous-les-programmes-immobiliers-neufs/1797-la-touraudiere-t1/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/la-touraudiere-t1"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/la-touraudiere-t1/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1797-la-touraudiere-t1"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1797-la-touraudiere-t1/_index.html
   - title: Le 5
-    target: "/tous-les-programmes-immobiliers-neufs/le-5/"
+    target: "/tous-les-programmes-immobiliers-neufs/1476-le-5/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-5"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-5/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1476-le-5"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1476-le-5/_index.html
   - title: Le Bakélite
-    target: "/tous-les-programmes-immobiliers-neufs/le-bakelite/"
+    target: "/tous-les-programmes-immobiliers-neufs/1808-le-bakelite/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-bakelite"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-bakelite/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1808-le-bakelite"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1808-le-bakelite/_index.html
   - title: Le Carrousel
-    target: "/tous-les-programmes-immobiliers-neufs/le-carrousel/"
+    target: "/tous-les-programmes-immobiliers-neufs/1690-le-carrousel/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-carrousel"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-carrousel/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1690-le-carrousel"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1690-le-carrousel/_index.html
   - title: Le Clos des Châtaigners
-    target: "/tous-les-programmes-immobiliers-neufs/le-clos-des-chataigners/"
+    target: "/tous-les-programmes-immobiliers-neufs/1609-le-clos-des-chataigners/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-clos-des-chataigners"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-clos-des-chataigners/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1609-le-clos-des-chataigners"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1609-le-clos-des-chataigners/_index.html
   - title: Le Domaine des Songes
-    target: "/tous-les-programmes-immobiliers-neufs/le-domaine-des-songes/"
+    target: "/tous-les-programmes-immobiliers-neufs/1479-le-domaine-des-songes/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-domaine-des-songes"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-domaine-des-songes/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1479-le-domaine-des-songes"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1479-le-domaine-des-songes/_index.html
   - title: Le Jade
     target: "/tous-les-programmes-immobiliers-neufs/le-jade/"
     kind: page
@@ -602,222 +602,222 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/le-jade"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-jade/_index.html
   - title: Le Lindon - Tranche 1A
-    target: "/tous-les-programmes-immobiliers-neufs/le-lindon-tranche-1a/"
+    target: "/tous-les-programmes-immobiliers-neufs/1671-le-lindon-tranche-1a/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-lindon-tranche-1a"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-lindon-tranche-1a/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1671-le-lindon-tranche-1a"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1671-le-lindon-tranche-1a/_index.html
   - title: Le Nell
-    target: "/tous-les-programmes-immobiliers-neufs/le-nell/"
+    target: "/tous-les-programmes-immobiliers-neufs/1803-le-nell/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-nell"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-nell/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1803-le-nell"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1803-le-nell/_index.html
   - title: Le Saule Blanc
-    target: "/tous-les-programmes-immobiliers-neufs/le-saule-blanc/"
+    target: "/tous-les-programmes-immobiliers-neufs/1636-le-saule-blanc/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-saule-blanc"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-saule-blanc/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1636-le-saule-blanc"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1636-le-saule-blanc/_index.html
   - title: Le Val Peillac
-    target: "/tous-les-programmes-immobiliers-neufs/le-val-peillac/"
+    target: "/tous-les-programmes-immobiliers-neufs/1795-le-val-peillac/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-val-peillac"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-val-peillac/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1795-le-val-peillac"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1795-le-val-peillac/_index.html
   - title: Les Alisiers
-    target: "/tous-les-programmes-immobiliers-neufs/les-alisiers/"
+    target: "/tous-les-programmes-immobiliers-neufs/1782-les-alisiers/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-alisiers"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-alisiers/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1782-les-alisiers"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1782-les-alisiers/_index.html
   - title: Les Charmettes
-    target: "/tous-les-programmes-immobiliers-neufs/les-charmettes/"
+    target: "/tous-les-programmes-immobiliers-neufs/1284-les-charmettes/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-charmettes"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-charmettes/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1284-les-charmettes"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1284-les-charmettes/_index.html
   - title: Les Clairières Boisées
-    target: "/tous-les-programmes-immobiliers-neufs/les-clairieres-boisees/"
+    target: "/tous-les-programmes-immobiliers-neufs/1287-les-clairieres-boisees/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-clairieres-boisees"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-clairieres-boisees/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1287-les-clairieres-boisees"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1287-les-clairieres-boisees/_index.html
   - title: Les Coteaux de la Viennais
-    target: "/tous-les-programmes-immobiliers-neufs/les-coteaux-de-la-viennais/"
+    target: "/tous-les-programmes-immobiliers-neufs/1413-les-coteaux-de-la-viennais/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-coteaux-de-la-viennais"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-coteaux-de-la-viennais/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1413-les-coteaux-de-la-viennais"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1413-les-coteaux-de-la-viennais/_index.html
   - title: Les Dunes
-    target: "/tous-les-programmes-immobiliers-neufs/les-dunes/"
+    target: "/tous-les-programmes-immobiliers-neufs/1339-les-dunes/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-dunes"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-dunes/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1339-les-dunes"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1339-les-dunes/_index.html
   - title: Les Folies Saint Martin
-    target: "/tous-les-programmes-immobiliers-neufs/les-folies-saint-martin/"
+    target: "/tous-les-programmes-immobiliers-neufs/1810-les-folies-saint-martin/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-folies-saint-martin"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-folies-saint-martin/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1810-les-folies-saint-martin"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1810-les-folies-saint-martin/_index.html
   - title: Les Jardins Midori
-    target: "/tous-les-programmes-immobiliers-neufs/les-jardins-midori/"
+    target: "/tous-les-programmes-immobiliers-neufs/1513-les-jardins-midori/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-jardins-midori"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-jardins-midori/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1513-les-jardins-midori"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1513-les-jardins-midori/_index.html
   - title: Les Prairies d'Orgères
-    target: "/tous-les-programmes-immobiliers-neufs/les-prairies-d-orgeres/"
+    target: "/tous-les-programmes-immobiliers-neufs/1693-les-prairies-d-orgeres/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-prairies-d-orgeres"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-prairies-d-orgeres/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1693-les-prairies-d-orgeres"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1693-les-prairies-d-orgeres/_index.html
   - title: Les Récits
-    target: "/tous-les-programmes-immobiliers-neufs/les-recits/"
+    target: "/tous-les-programmes-immobiliers-neufs/1807-les-recits/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-recits"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-recits/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1807-les-recits"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1807-les-recits/_index.html
   - title: LIKE
-    target: "/tous-les-programmes-immobiliers-neufs/like/"
+    target: "/tous-les-programmes-immobiliers-neufs/1397-like/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/like"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/like/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1397-like"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1397-like/_index.html
   - title: Manoli
-    target: "/tous-les-programmes-immobiliers-neufs/manoli/"
+    target: "/tous-les-programmes-immobiliers-neufs/1780-manoli/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/manoli"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/manoli/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1780-manoli"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1780-manoli/_index.html
   - title: Manoli (individuel)
-    target: "/tous-les-programmes-immobiliers-neufs/manoli-individuel/"
+    target: "/tous-les-programmes-immobiliers-neufs/1781-manoli-individuel/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/manoli-individuel"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/manoli-individuel/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1781-manoli-individuel"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1781-manoli-individuel/_index.html
   - title: Millesens
-    target: "/tous-les-programmes-immobiliers-neufs/millesens/"
+    target: "/tous-les-programmes-immobiliers-neufs/1318-millesens/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/millesens"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/millesens/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1318-millesens"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1318-millesens/_index.html
   - title: Montebello
-    target: "/tous-les-programmes-immobiliers-neufs/montebello/"
+    target: "/tous-les-programmes-immobiliers-neufs/1558-montebello/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/montebello"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/montebello/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1558-montebello"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1558-montebello/_index.html
   - title: My Campus Chateaubriand
-    target: "/tous-les-programmes-immobiliers-neufs/my-campus-chateaubriand/"
+    target: "/tous-les-programmes-immobiliers-neufs/1633-my-campus-chateaubriand/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/my-campus-chateaubriand"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/my-campus-chateaubriand/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1633-my-campus-chateaubriand"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1633-my-campus-chateaubriand/_index.html
   - title: My Campus Saint-Martin (Bât B)
-    target: "/tous-les-programmes-immobiliers-neufs/my-campus-saint-martin-bat-b/"
+    target: "/tous-les-programmes-immobiliers-neufs/1240-my-campus-saint-martin-bat-b/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/my-campus-saint-martin-bat-b"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/my-campus-saint-martin-bat-b/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1240-my-campus-saint-martin-bat-b"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1240-my-campus-saint-martin-bat-b/_index.html
   - title: My Campus Voltaire
-    target: "/tous-les-programmes-immobiliers-neufs/my-campus-voltaire/"
+    target: "/tous-les-programmes-immobiliers-neufs/1213-my-campus-voltaire/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/my-campus-voltaire"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/my-campus-voltaire/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1213-my-campus-voltaire"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1213-my-campus-voltaire/_index.html
   - title: Najima
-    target: "/tous-les-programmes-immobiliers-neufs/najima/"
+    target: "/tous-les-programmes-immobiliers-neufs/874-najima/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/najima"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/najima/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/874-najima"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/874-najima/_index.html
   - title: Naturae
-    target: "/tous-les-programmes-immobiliers-neufs/naturae/"
+    target: "/tous-les-programmes-immobiliers-neufs/1637-naturae/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/naturae"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/naturae/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1637-naturae"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1637-naturae/_index.html
   - title: NEOS
-    target: "/tous-les-programmes-immobiliers-neufs/neos/"
+    target: "/tous-les-programmes-immobiliers-neufs/1491-neos/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/neos"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/neos/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1491-neos"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1491-neos/_index.html
   - title: Niki
-    target: "/tous-les-programmes-immobiliers-neufs/niki/"
+    target: "/tous-les-programmes-immobiliers-neufs/1152-niki/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/niki"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/niki/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1152-niki"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1152-niki/_index.html
   - title: Nola
-    target: "/tous-les-programmes-immobiliers-neufs/nola/"
+    target: "/tous-les-programmes-immobiliers-neufs/1775-nola/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/nola"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/nola/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1775-nola"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1775-nola/_index.html
   - title: Nous Coliving
-    target: "/tous-les-programmes-immobiliers-neufs/nous-coliving/"
+    target: "/tous-les-programmes-immobiliers-neufs/1462-nous-coliving/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/nous-coliving"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/nous-coliving/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1462-nous-coliving"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1462-nous-coliving/_index.html
   - title: Nouvel'R
-    target: "/tous-les-programmes-immobiliers-neufs/nouvel-r/"
+    target: "/tous-les-programmes-immobiliers-neufs/989-nouvel-r/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/nouvel-r"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/nouvel-r/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/989-nouvel-r"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/989-nouvel-r/_index.html
   - title: Nymphe
-    target: "/tous-les-programmes-immobiliers-neufs/nymphe/"
+    target: "/tous-les-programmes-immobiliers-neufs/1486-nymphe/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/nymphe"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/nymphe/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1486-nymphe"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1486-nymphe/_index.html
   - title: Opale
-    target: "/tous-les-programmes-immobiliers-neufs/opale/"
+    target: "/tous-les-programmes-immobiliers-neufs/1735-opale/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/opale"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/opale/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1735-opale"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1735-opale/_index.html
   - title: ORIEL
-    target: "/tous-les-programmes-immobiliers-neufs/oriel/"
+    target: "/tous-les-programmes-immobiliers-neufs/1809-oriel/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/oriel"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/oriel/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1809-oriel"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1809-oriel/_index.html
   - title: Ôrizon
     target: "/tous-les-programmes-immobiliers-neufs/orizon/"
     kind: page
@@ -826,26 +826,26 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/orizon"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/orizon/_index.html
   - title: ORKI'D
-    target: "/tous-les-programmes-immobiliers-neufs/orki-d/"
+    target: "/tous-les-programmes-immobiliers-neufs/1789-orki-d/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/orki-d"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/orki-d/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1789-orki-d"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1789-orki-d/_index.html
   - title: Paloma
-    target: "/tous-les-programmes-immobiliers-neufs/paloma/"
+    target: "/tous-les-programmes-immobiliers-neufs/1211-paloma/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/paloma"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/paloma/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1211-paloma"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1211-paloma/_index.html
   - title: Panorama
-    target: "/tous-les-programmes-immobiliers-neufs/panorama/"
+    target: "/tous-les-programmes-immobiliers-neufs/1734-panorama/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/panorama"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/panorama/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1734-panorama"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1734-panorama/_index.html
   - title: Papyrus
     target: "/tous-les-programmes-immobiliers-neufs/papyrus/"
     kind: page
@@ -854,145 +854,145 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/papyrus"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/papyrus/_index.html
   - title: Parc St Michel
-    target: "/tous-les-programmes-immobiliers-neufs/parc-st-michel/"
+    target: "/tous-les-programmes-immobiliers-neufs/1626-parc-st-michel/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/parc-st-michel"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/parc-st-michel/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1626-parc-st-michel"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1626-parc-st-michel/_index.html
   - title: Parenthese
-    target: "/tous-les-programmes-immobiliers-neufs/parenthese/"
+    target: "/tous-les-programmes-immobiliers-neufs/1389-parenthese/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/parenthese"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/parenthese/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1389-parenthese"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1389-parenthese/_index.html
   - title: Pluriels
-    target: "/tous-les-programmes-immobiliers-neufs/pluriels/"
+    target: "/tous-les-programmes-immobiliers-neufs/1783-pluriels/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/pluriels"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/pluriels/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1783-pluriels"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1783-pluriels/_index.html
   - title: Prado Grande
-    target: "/tous-les-programmes-immobiliers-neufs/prado-grande/"
+    target: "/tous-les-programmes-immobiliers-neufs/1706-prado-grande/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/prado-grande"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/prado-grande/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1706-prado-grande"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1706-prado-grande/_index.html
   - title: Prélude
-    target: "/tous-les-programmes-immobiliers-neufs/prelude/"
+    target: "/tous-les-programmes-immobiliers-neufs/1757-prelude/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/prelude"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/prelude/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1757-prelude"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1757-prelude/_index.html
   - title: Premières  Loges
-    target: "/tous-les-programmes-immobiliers-neufs/premieres-loges/"
+    target: "/tous-les-programmes-immobiliers-neufs/1097-premieres-loges/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/premieres-loges"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/premieres-loges/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1097-premieres-loges"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1097-premieres-loges/_index.html
   - title: Pythagore
-    target: "/tous-les-programmes-immobiliers-neufs/pythagore/"
+    target: "/tous-les-programmes-immobiliers-neufs/1473-pythagore/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/pythagore"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/pythagore/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1473-pythagore"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1473-pythagore/_index.html
   - title: Quai 21
-    target: "/tous-les-programmes-immobiliers-neufs/quai-21/"
+    target: "/tous-les-programmes-immobiliers-neufs/1804-quai-21/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/quai-21"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/quai-21/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1804-quai-21"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1804-quai-21/_index.html
   - title: Quartiers de la Trémelière
-    target: "/tous-les-programmes-immobiliers-neufs/quartiers-de-la-tremeliere/"
+    target: "/tous-les-programmes-immobiliers-neufs/1692-quartiers-de-la-tremeliere/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/quartiers-de-la-tremeliere"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/quartiers-de-la-tremeliere/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1692-quartiers-de-la-tremeliere"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1692-quartiers-de-la-tremeliere/_index.html
   - title: Red Line
-    target: "/tous-les-programmes-immobiliers-neufs/red-line/"
+    target: "/tous-les-programmes-immobiliers-neufs/1565-red-line/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/red-line"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/red-line/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1565-red-line"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1565-red-line/_index.html
   - title: RedWood Bât E et G
-    target: "/tous-les-programmes-immobiliers-neufs/redwood-bat-e-et-g/"
+    target: "/tous-les-programmes-immobiliers-neufs/1303-redwood-bat-e-et-g/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/redwood-bat-e-et-g"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/redwood-bat-e-et-g/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1303-redwood-bat-e-et-g"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1303-redwood-bat-e-et-g/_index.html
   - title: RedWood lot C
-    target: "/tous-les-programmes-immobiliers-neufs/redwood-lot-c/"
+    target: "/tous-les-programmes-immobiliers-neufs/1475-redwood-lot-c/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/redwood-lot-c"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/redwood-lot-c/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1475-redwood-lot-c"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1475-redwood-lot-c/_index.html
   - title: Reflet
-    target: "/tous-les-programmes-immobiliers-neufs/reflet/"
+    target: "/tous-les-programmes-immobiliers-neufs/1177-reflet/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/reflet"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/reflet/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1177-reflet"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1177-reflet/_index.html
   - title: Résidence Alba
-    target: "/tous-les-programmes-immobiliers-neufs/residence-alba/"
+    target: "/tous-les-programmes-immobiliers-neufs/1305-residence-alba/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/residence-alba"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/residence-alba/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1305-residence-alba"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1305-residence-alba/_index.html
   - title: Résidence du ruisseau
-    target: "/tous-les-programmes-immobiliers-neufs/residence-du-ruisseau/"
+    target: "/tous-les-programmes-immobiliers-neufs/1713-residence-du-ruisseau/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/residence-du-ruisseau"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/residence-du-ruisseau/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1713-residence-du-ruisseau"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1713-residence-du-ruisseau/_index.html
   - title: Résidence Ker Campus
-    target: "/tous-les-programmes-immobiliers-neufs/residence-ker-campus/"
+    target: "/tous-les-programmes-immobiliers-neufs/1664-residence-ker-campus/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/residence-ker-campus"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/residence-ker-campus/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1664-residence-ker-campus"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1664-residence-ker-campus/_index.html
   - title: Résidence Odace
-    target: "/tous-les-programmes-immobiliers-neufs/residence-odace/"
+    target: "/tous-les-programmes-immobiliers-neufs/1194-residence-odace/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/residence-odace"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/residence-odace/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1194-residence-odace"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1194-residence-odace/_index.html
   - title: Rivalto
-    target: "/tous-les-programmes-immobiliers-neufs/rivalto/"
+    target: "/tous-les-programmes-immobiliers-neufs/1340-rivalto/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/rivalto"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/rivalto/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1340-rivalto"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1340-rivalto/_index.html
   - title: River Lodge
-    target: "/tous-les-programmes-immobiliers-neufs/river-lodge/"
+    target: "/tous-les-programmes-immobiliers-neufs/1474-river-lodge/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/river-lodge"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/river-lodge/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1474-river-lodge"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1474-river-lodge/_index.html
   - title: SCCV Flo 5
-    target: "/tous-les-programmes-immobiliers-neufs/sccv-flo-5/"
+    target: "/tous-les-programmes-immobiliers-neufs/1311-sccv-flo-5/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/sccv-flo-5"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/sccv-flo-5/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1311-sccv-flo-5"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1311-sccv-flo-5/_index.html
   - title: Secteur Confluences (Tranche sud-ouest)
     target: "/tous-les-programmes-immobiliers-neufs/secteur-confluences-tranche-sud-ouest/"
     kind: page
@@ -1267,12 +1267,12 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/bois-coligny"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/bois-coligny/_index.html
   - title: Confluence
-    target: "/tous-les-programmes-immobiliers-neufs/confluence/"
+    target: "/tous-les-programmes-immobiliers-neufs/1815-confluence/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/confluence"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/confluence/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1815-confluence"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1815-confluence/_index.html
   - title: Epona
     target: "/tous-les-programmes-immobiliers-neufs/epona/"
     kind: page
@@ -1281,47 +1281,47 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/epona"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/epona/_index.html
   - title: Le Clos de la Metairie
-    target: "/tous-les-programmes-immobiliers-neufs/le-clos-de-la-metairie/"
+    target: "/tous-les-programmes-immobiliers-neufs/1818-le-clos-de-la-metairie/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-clos-de-la-metairie"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-clos-de-la-metairie/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1818-le-clos-de-la-metairie"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1818-le-clos-de-la-metairie/_index.html
   - title: 'Le domaine de la Closerie '
-    target: "/tous-les-programmes-immobiliers-neufs/le-domaine-de-la-closerie/"
+    target: "/tous-les-programmes-immobiliers-neufs/1819-le-domaine-de-la-closerie/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-domaine-de-la-closerie"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-domaine-de-la-closerie/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1819-le-domaine-de-la-closerie"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1819-le-domaine-de-la-closerie/_index.html
   - title: Le Domaine des Planches
-    target: "/tous-les-programmes-immobiliers-neufs/le-domaine-des-planches/"
+    target: "/tous-les-programmes-immobiliers-neufs/1820-le-domaine-des-planches/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/le-domaine-des-planches"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/le-domaine-des-planches/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1820-le-domaine-des-planches"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1820-le-domaine-des-planches/_index.html
   - title: Les Jardins du Clos Sotin
-    target: "/tous-les-programmes-immobiliers-neufs/les-jardins-du-clos-sotin/"
+    target: "/tous-les-programmes-immobiliers-neufs/1821-les-jardins-du-clos-sotin/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-jardins-du-clos-sotin"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-jardins-du-clos-sotin/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1821-les-jardins-du-clos-sotin"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1821-les-jardins-du-clos-sotin/_index.html
   - title: Les Jardins du Lindon
-    target: "/tous-les-programmes-immobiliers-neufs/les-jardins-du-lindon/"
+    target: "/tous-les-programmes-immobiliers-neufs/1816-les-jardins-du-lindon/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-jardins-du-lindon"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-jardins-du-lindon/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1816-les-jardins-du-lindon"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1816-les-jardins-du-lindon/_index.html
   - title: Les Partitions (Habitat Concertatif)
-    target: "/tous-les-programmes-immobiliers-neufs/les-partitions-habitat-concertatif/"
+    target: "/tous-les-programmes-immobiliers-neufs/1812-les-partitions-habitat-concertatif/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/les-partitions-habitat-concertatif"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/les-partitions-habitat-concertatif/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1812-les-partitions-habitat-concertatif"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1812-les-partitions-habitat-concertatif/_index.html
   - title: SYMBIOZ
     target: "/tous-les-programmes-immobiliers-neufs/symbioz/"
     kind: page
@@ -1330,12 +1330,12 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/symbioz"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/symbioz/_index.html
   - title: L'Impérial
-    target: "/tous-les-programmes-immobiliers-neufs/l-imperial/"
+    target: "/tous-les-programmes-immobiliers-neufs/1822-l-imperial/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/l-imperial"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/l-imperial/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1822-l-imperial"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1822-l-imperial/_index.html
   - title: Alkimia
     target: "/tous-les-programmes-immobiliers-neufs/1826-alkimia/"
     kind: page
@@ -1357,6 +1357,83 @@ items:
     children: []
     path: "/pages/tous-les-programmes-immobiliers-neufs/1823-bois-coligny"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1823-bois-coligny/_index.html
+  - title: Eclat
+    target: "/tous-les-programmes-immobiliers-neufs/1312-eclat/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1312-eclat"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1312-eclat/_index.html
+  - title: Epona
+    target: "/tous-les-programmes-immobiliers-neufs/1829-epona/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1829-epona"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1829-epona/_index.html
+  - title: Krei'zen
+    target: "/tous-les-programmes-immobiliers-neufs/1825-krei-zen/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1825-krei-zen"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1825-krei-zen/_index.html
+  - title: La Touraudière (T1)
+    target: "/tous-les-programmes-immobiliers-neufs/1784-la-touraudiere-t1/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1784-la-touraudiere-t1"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1784-la-touraudiere-t1/_index.html
+  - title: Le Jade
+    target: "/tous-les-programmes-immobiliers-neufs/1824-le-jade/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1824-le-jade"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1824-le-jade/_index.html
+  - title: Le Saule Blanc
+    target: "/tous-les-programmes-immobiliers-neufs/1675-le-saule-blanc/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1675-le-saule-blanc"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1675-le-saule-blanc/_index.html
+  - title: Le Val Peillac
+    target: "/tous-les-programmes-immobiliers-neufs/1759-le-val-peillac/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1759-le-val-peillac"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1759-le-val-peillac/_index.html
+  - title: 'Les clairières boisées '
+    target: "/tous-les-programmes-immobiliers-neufs/1743-les-clairieres-boisees/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1743-les-clairieres-boisees"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1743-les-clairieres-boisees/_index.html
+  - title: Nola
+    target: "/tous-les-programmes-immobiliers-neufs/1828-nola/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1828-nola"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1828-nola/_index.html
+  - title: Opale
+    target: "/tous-les-programmes-immobiliers-neufs/1785-opale/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1785-opale"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1785-opale/_index.html
+  - title: Parenthese
+    target: "/tous-les-programmes-immobiliers-neufs/1477-parenthese/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1477-parenthese"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1477-parenthese/_index.html
   path: "/pages/tous-les-programmes-immobiliers-neufs"
   file: content/fr/pages/tous-les-programmes-immobiliers-neufs/_index.html
 
