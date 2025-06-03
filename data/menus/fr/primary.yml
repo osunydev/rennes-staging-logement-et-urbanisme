@@ -35,19 +35,19 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/1754-36-academy"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1754-36-academy/_index.html
   - title: Absolu9*
-    target: "/tous-les-programmes-immobiliers-neufs/absolu9/"
+    target: "/tous-les-programmes-immobiliers-neufs/1800-absolu9/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/absolu9"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/absolu9/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1800-absolu9"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1800-absolu9/_index.html
   - title: Akoya
-    target: "/tous-les-programmes-immobiliers-neufs/akoya/"
+    target: "/tous-les-programmes-immobiliers-neufs/875-akoya/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/akoya"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/akoya/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/875-akoya"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/875-akoya/_index.html
   - title: Alkimia
     target: "/tous-les-programmes-immobiliers-neufs/alkimia/"
     kind: page
@@ -56,82 +56,82 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/alkimia"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/alkimia/_index.html
   - title: Ambre
-    target: "/tous-les-programmes-immobiliers-neufs/ambre/"
+    target: "/tous-les-programmes-immobiliers-neufs/1463-ambre/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/ambre"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/ambre/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1463-ambre"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1463-ambre/_index.html
   - title: Arbore'sens
-    target: "/tous-les-programmes-immobiliers-neufs/arbore-sens/"
+    target: "/tous-les-programmes-immobiliers-neufs/1210-arbore-sens/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/arbore-sens"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/arbore-sens/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1210-arbore-sens"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1210-arbore-sens/_index.html
   - title: 'Arboretum de Quince '
-    target: "/tous-les-programmes-immobiliers-neufs/arboretum-de-quince/"
+    target: "/tous-les-programmes-immobiliers-neufs/1390-arboretum-de-quince/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/arboretum-de-quince"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/arboretum-de-quince/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1390-arboretum-de-quince"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1390-arboretum-de-quince/_index.html
   - title: Aromatique
-    target: "/tous-les-programmes-immobiliers-neufs/aromatique/"
+    target: "/tous-les-programmes-immobiliers-neufs/1401-aromatique/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/aromatique"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/aromatique/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1401-aromatique"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1401-aromatique/_index.html
   - title: Artefact
-    target: "/tous-les-programmes-immobiliers-neufs/artefact/"
+    target: "/tous-les-programmes-immobiliers-neufs/1499-artefact/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/artefact"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/artefact/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1499-artefact"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1499-artefact/_index.html
   - title: Automne
-    target: "/tous-les-programmes-immobiliers-neufs/automne/"
+    target: "/tous-les-programmes-immobiliers-neufs/1110-automne/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/automne"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/automne/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1110-automne"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1110-automne/_index.html
   - title: Azurea
-    target: "/tous-les-programmes-immobiliers-neufs/azurea/"
+    target: "/tous-les-programmes-immobiliers-neufs/1268-azurea/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/azurea"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/azurea/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1268-azurea"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1268-azurea/_index.html
   - title: Bloom village
-    target: "/tous-les-programmes-immobiliers-neufs/bloom-village/"
+    target: "/tous-les-programmes-immobiliers-neufs/1791-bloom-village/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/bloom-village"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/bloom-village/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1791-bloom-village"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1791-bloom-village/_index.html
   - title: Bocages
-    target: "/tous-les-programmes-immobiliers-neufs/bocages/"
+    target: "/tous-les-programmes-immobiliers-neufs/1632-bocages/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/bocages"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/bocages/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1632-bocages"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1632-bocages/_index.html
   - title: Boreal
-    target: "/tous-les-programmes-immobiliers-neufs/boreal/"
+    target: "/tous-les-programmes-immobiliers-neufs/1495-boreal/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/boreal"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/boreal/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1495-boreal"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1495-boreal/_index.html
   - title: Brick Lodge
-    target: "/tous-les-programmes-immobiliers-neufs/brick-lodge/"
+    target: "/tous-les-programmes-immobiliers-neufs/1419-brick-lodge/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/brick-lodge"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/brick-lodge/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1419-brick-lodge"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1419-brick-lodge/_index.html
   - title: Brownstone
     target: "/tous-les-programmes-immobiliers-neufs/brownstone/"
     kind: page
@@ -1336,6 +1336,27 @@ items:
     children: []
     path: "/pages/tous-les-programmes-immobiliers-neufs/l-imperial"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/l-imperial/_index.html
+  - title: Alkimia
+    target: "/tous-les-programmes-immobiliers-neufs/1826-alkimia/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1826-alkimia"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1826-alkimia/_index.html
+  - title: 'Arboretum de Quince '
+    target: "/tous-les-programmes-immobiliers-neufs/1425-arboretum-de-quince/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1425-arboretum-de-quince"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1425-arboretum-de-quince/_index.html
+  - title: Bois Coligny
+    target: "/tous-les-programmes-immobiliers-neufs/1823-bois-coligny/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1823-bois-coligny"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1823-bois-coligny/_index.html
   path: "/pages/tous-les-programmes-immobiliers-neufs"
   file: content/fr/pages/tous-les-programmes-immobiliers-neufs/_index.html
 
