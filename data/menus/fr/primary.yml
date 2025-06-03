@@ -1071,26 +1071,26 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/1417-terranova"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1417-terranova/_index.html
   - title: Terrasilva
-    target: "/tous-les-programmes-immobiliers-neufs/terrasilva/"
+    target: "/tous-les-programmes-immobiliers-neufs/1676-terrasilva/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/terrasilva"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/terrasilva/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1676-terrasilva"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1676-terrasilva/_index.html
   - title: Trendy
-    target: "/tous-les-programmes-immobiliers-neufs/trendy/"
+    target: "/tous-les-programmes-immobiliers-neufs/1271-trendy/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/trendy"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/trendy/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1271-trendy"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1271-trendy/_index.html
   - title: Typi Coliving
-    target: "/tous-les-programmes-immobiliers-neufs/typi-coliving/"
+    target: "/tous-les-programmes-immobiliers-neufs/1739-typi-coliving/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/typi-coliving"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/typi-coliving/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1739-typi-coliving"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1739-typi-coliving/_index.html
   - title: Ubiquiti
     target: "/tous-les-programmes-immobiliers-neufs/ubiquiti/"
     kind: page
