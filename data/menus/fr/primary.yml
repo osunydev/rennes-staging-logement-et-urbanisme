@@ -28,12 +28,12 @@ items:
   new_tab: false
   children:
   - title: 36 Academy
-    target: "/tous-les-programmes-immobiliers-neufs/36-academy/"
+    target: "/tous-les-programmes-immobiliers-neufs/1754-36-academy/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/36-academy"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/36-academy/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1754-36-academy"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1754-36-academy/_index.html
   - title: Absolu9*
     target: "/tous-les-programmes-immobiliers-neufs/absolu9/"
     kind: page
