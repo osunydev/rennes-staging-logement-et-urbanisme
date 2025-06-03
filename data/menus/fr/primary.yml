@@ -133,68 +133,68 @@ items:
     path: "/pages/tous-les-programmes-immobiliers-neufs/1419-brick-lodge"
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1419-brick-lodge/_index.html
   - title: Brownstone
-    target: "/tous-les-programmes-immobiliers-neufs/brownstone/"
+    target: "/tous-les-programmes-immobiliers-neufs/944-brownstone/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/brownstone"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/brownstone/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/944-brownstone"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/944-brownstone/_index.html
   - title: Bucolia
-    target: "/tous-les-programmes-immobiliers-neufs/bucolia/"
+    target: "/tous-les-programmes-immobiliers-neufs/1790-bucolia/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/bucolia"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/bucolia/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1790-bucolia"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1790-bucolia/_index.html
   - title: Campus Rennes Gare
-    target: "/tous-les-programmes-immobiliers-neufs/campus-rennes-gare/"
+    target: "/tous-les-programmes-immobiliers-neufs/1741-campus-rennes-gare/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/campus-rennes-gare"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/campus-rennes-gare/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1741-campus-rennes-gare"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1741-campus-rennes-gare/_index.html
   - title: Capella
-    target: "/tous-les-programmes-immobiliers-neufs/capella/"
+    target: "/tous-les-programmes-immobiliers-neufs/1750-capella/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/capella"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/capella/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1750-capella"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1750-capella/_index.html
   - title: Cassiopée
-    target: "/tous-les-programmes-immobiliers-neufs/cassiopee/"
+    target: "/tous-les-programmes-immobiliers-neufs/1711-cassiopee/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/cassiopee"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/cassiopee/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1711-cassiopee"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1711-cassiopee/_index.html
   - title: Castello
-    target: "/tous-les-programmes-immobiliers-neufs/castello/"
+    target: "/tous-les-programmes-immobiliers-neufs/1420-castello/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/castello"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/castello/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1420-castello"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1420-castello/_index.html
   - title: Centre aux Mares Noires
-    target: "/tous-les-programmes-immobiliers-neufs/centre-aux-mares-noires/"
+    target: "/tous-les-programmes-immobiliers-neufs/1530-centre-aux-mares-noires/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/centre-aux-mares-noires"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/centre-aux-mares-noires/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1530-centre-aux-mares-noires"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1530-centre-aux-mares-noires/_index.html
   - title: Centre bourg et ZAC Loirie (tranche 2A)
-    target: "/tous-les-programmes-immobiliers-neufs/centre-bourg-et-zac-loirie-tranche-2a/"
+    target: "/tous-les-programmes-immobiliers-neufs/1755-centre-bourg-et-zac-loirie-tranche-2a/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/centre-bourg-et-zac-loirie-tranche-2a"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/centre-bourg-et-zac-loirie-tranche-2a/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1755-centre-bourg-et-zac-loirie-tranche-2a"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1755-centre-bourg-et-zac-loirie-tranche-2a/_index.html
   - title: Centre bourg et ZAC Loirie (tranche 2C)
-    target: "/tous-les-programmes-immobiliers-neufs/centre-bourg-et-zac-loirie-tranche-2c/"
+    target: "/tous-les-programmes-immobiliers-neufs/1756-centre-bourg-et-zac-loirie-tranche-2c/"
     kind: page
     new_tab: false
     children: []
-    path: "/pages/tous-les-programmes-immobiliers-neufs/centre-bourg-et-zac-loirie-tranche-2c"
-    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/centre-bourg-et-zac-loirie-tranche-2c/_index.html
+    path: "/pages/tous-les-programmes-immobiliers-neufs/1756-centre-bourg-et-zac-loirie-tranche-2c"
+    file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1756-centre-bourg-et-zac-loirie-tranche-2c/_index.html
   - title: Cézembre
     target: "/tous-les-programmes-immobiliers-neufs/cezembre/"
     kind: page
