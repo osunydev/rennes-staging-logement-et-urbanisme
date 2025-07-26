@@ -1415,11 +1415,4 @@ items:
     file: content/fr/pages/tous-les-programmes-immobiliers-neufs/1714-zac-des-basses-noes/_index.html
   path: "/pages/tous-les-programmes-immobiliers-neufs"
   file: content/fr/pages/tous-les-programmes-immobiliers-neufs/_index.html
-- title: Ma belle page
-  target: "/ma-belle-page/"
-  kind: page
-  new_tab: false
-  children: []
-  path: 
-  file: 
 
