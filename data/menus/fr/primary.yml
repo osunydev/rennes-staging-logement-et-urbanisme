@@ -2007,4 +2007,13 @@ items:
   - "/tous-les-programmes-immobiliers-neufs/992-storm/"
   path: "/pages/tous-les-programmes-immobiliers-neufs"
   file: content/fr/pages/tous-les-programmes-immobiliers-neufs/_index.html
+- title: Fichiers
+  slug: fichiers
+  target: "/fichiers/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/files"
+  file: content/fr/files/_index.html
 
