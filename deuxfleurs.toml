@@ -1,0 +1,528 @@
+[[cors]]
+allowed_origins = "*"
+allowed_methods = ["GET", "POST"]
+allowed_headers = "*"
+
+[[headers]]
+for = ["**/*.woff2", "**/*.woff", "**/*.svg", "**/*.ttf", "**/*.otf", "**/*.eot", "**/*.js", "**/*.css"]
+compress = "gzip"
+[headers.values]
+Cache-Control = "max-age=31536000, no-transform, public"
+
+[[headers]]
+for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
+[headers.values]
+Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/premieres-loges/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1097-premieres-loges/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-de-la-houltais/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1391-zac-de-la-houltais/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/residence-ker-campus/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1664-residence-ker-campus/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/l-oasis/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1342-l-oasis/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-des-hautes-perrieres/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1185-zac-des-hautes-perrieres/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/le-carrousel/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1690-le-carrousel/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/kanopy/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1306-kanopy/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/azurea/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1268-azurea/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/villa-saint-paul/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1084-villa-saint-paul/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/centre-bourg-et-zac-loirie-tranche-2a/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1755-centre-bourg-et-zac-loirie-tranche-2a/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/clos-milin/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1656-clos-milin/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-du-val-de-sermon/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1579-zac-du-val-de-sermon/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/la-niche-aux-oiseaux/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1272-la-niche-aux-oiseaux/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/faubourg/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1740-faubourg/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/niki/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1152-niki/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/campus-rennes-gare/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1741-campus-rennes-gare/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-du-lindon/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1580-zac-du-lindon/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/ekla/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1394-ekla/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/viennais-sud-t2/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1645-viennais-sud-t2/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/trendy/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1271-trendy/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/les-charmettes/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1284-les-charmettes/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/centre-bourg-et-zac-loirie-tranche-2c/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1756-centre-bourg-et-zac-loirie-tranche-2c/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/les-coteaux-de-la-viennais/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1413-les-coteaux-de-la-viennais/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/constellation/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1252-constellation/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/opale/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1735-opale/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/l-esplanade/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1085-l-esplanade/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/le-domaine-des-songes/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1479-le-domaine-des-songes/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/pythagore/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1473-pythagore/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/eclat/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1309-eclat/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-de-la-houltais-et-du-placys-verdys-t4/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1317-zac-de-la-houltais-et-du-placys-verdys-t4/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/like/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1397-like/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/river-lodge/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1474-river-lodge/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/coeur-ambree/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1736-coeur-ambree/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/honore/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1549-honore/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/viennais-sud-t1/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1316-viennais-sud-t1/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/quartiers-de-la-tremeliere/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1692-quartiers-de-la-tremeliere/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-de-la-houltais-et-du-placys-verdys-t5/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1646-zac-de-la-houltais-et-du-placys-verdys-t5/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/red-line/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1565-red-line/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/villa-saint-martin/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1787-villa-saint-martin/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/residence-alba/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1305-residence-alba/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/eklor/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1753-eklor/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/yadori/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1709-yadori/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/coeur-vezin/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1654-coeur-vezin/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/montebello/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1558-montebello/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/l-oasis-maisons/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1344-l-oasis-maisons/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/ytem/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1737-ytem/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/eclanova/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1131-eclanova/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/epicure/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1620-epicure/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/brick-lodge/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1419-brick-lodge/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/nymphe/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1486-nymphe/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-de-la-niche-aux-oiseaux/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1672-zac-de-la-niche-aux-oiseaux/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/automne/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1110-automne/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/kalia/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1314-kalia/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/terranova/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1417-terranova/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/centre-aux-mares-noires/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1530-centre-aux-mares-noires/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/residence-du-ruisseau/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1713-residence-du-ruisseau/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-du-vallon/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1353-zac-du-vallon/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/36-academy/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1754-36-academy/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/arbore-sens/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1210-arbore-sens/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/eklo/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1308-eklo/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/nous-coliving/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1462-nous-coliving/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/ilot-du-tronchay/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1694-ilot-du-tronchay/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/le-bakelite/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1808-le-bakelite/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/panorama/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1734-panorama/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/le-lindon-tranche-1a/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1671-le-lindon-tranche-1a/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/le-5/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1476-le-5/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/excelsior/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1566-excelsior/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/kottage/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1635-kottage/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/my-campus-chateaubriand/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1633-my-campus-chateaubriand/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/la-touraudiere-t1/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1797-la-touraudiere-t1/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-de-la-touche/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1032-zac-de-la-touche/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/parc-st-michel/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1626-parc-st-michel/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/ilo/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1005-ilo/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/ambre/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1463-ambre/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/les-clairieres-boisees/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1287-les-clairieres-boisees/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/les-recits/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1807-les-recits/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/arboretum-de-quince/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1390-arboretum-de-quince/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/ecoquartier-les-champs-bleus/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1695-ecoquartier-les-champs-bleus/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/les-prairies-d-orgeres/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1693-les-prairies-d-orgeres/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/typi-coliving/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1739-typi-coliving/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/symbioz/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1814-symbioz/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/my-campus-voltaire/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1213-my-campus-voltaire/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/storm/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/992-storm/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/snc-atelier-de-jeanne/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1738-snc-atelier-de-jeanne/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/paloma/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1211-paloma/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/terrasilva/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1676-terrasilva/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/l-ile-o-bois-koad/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1184-l-ile-o-bois-koad/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/secteur-confluences-tranche-sud-ouest/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1673-secteur-confluences-tranche-sud-ouest/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/happy/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1270-happy/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/bocages/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1632-bocages/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/eclisse/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1567-eclisse/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/terra-serena/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1485-terra-serena/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/cezembre/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1621-cezembre/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/so-gree/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1570-so-gree/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/ubiquiti/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1788-ubiquiti/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/l-atelier-d-elise/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1502-l-atelier-d-elise/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/les-folies-saint-martin/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1810-les-folies-saint-martin/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/la-belle-metairie/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1487-la-belle-metairie/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/summerfield/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1205-summerfield/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/echo-loti/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1619-echo-loti/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-des-basses-noes-secteur-4-2/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1669-zac-des-basses-noes-secteur-4-2/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/prelude/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1757-prelude/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/clos-du-bourg/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1612-clos-du-bourg/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/le-clos-des-chataigners/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1609-le-clos-des-chataigners/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/city-zen/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1568-city-zen/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/castello/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1420-castello/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/la-lisiere-d-apigne/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1214-la-lisiere-d-apigne/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/papyrus/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1402-papyrus/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/my-campus-saint-martin-bat-b/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1240-my-campus-saint-martin-bat-b/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/aromatique/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1401-aromatique/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/greenvil/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1200-greenvil/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/honore-maison/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1644-honore-maison/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/domaine-du-verger/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1769-domaine-du-verger/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-les-petites-haies/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1674-zac-les-petites-haies/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/epure/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1655-epure/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/les-jardins-midori/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1513-les-jardins-midori/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-les-chaputs/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1360-zac-les-chaputs/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/rivalto/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1340-rivalto/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/orki-d/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1789-orki-d/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/les-dunes/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1339-les-dunes/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/brownstone/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/944-brownstone/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-du-haut-sance/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1786-zac-du-haut-sance/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/millesens/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1318-millesens/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/redwood-bat-e-et-g/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1303-redwood-bat-e-et-g/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/excelsior-nue-propriete/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1679-excelsior-nue-propriete/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/zac-le-moulin-a-vent/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1634-zac-le-moulin-a-vent/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/spiky/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1677-spiky/"
+
+[[redirects]]
+from = "/tous-les-programmes-immobiliers-neufs/redwood-lot-c/index.html"
+to = "/tous-les-programmes-immobiliers-neufs/1475-redwood-lot-c/"
+
